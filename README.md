@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hi, I'm Carlos 👋🏾 👩🏾‍💻
 
+<img src="https://raw.githubusercontent.com/leonheart0137/leonheart0137/refs/heads/main/header-image-2.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+
+I'm a software developer focused on building thoughtful digital experiences — from data analysis and backend APIs to modern, accessible web interfaces. My work combines technical depth with real-world purpose, whether I'm working with data, building multilingual tools, or deploying full-stack applications. Some technologies I enjoy working with include React, Svelte, SQLite, TailwindCSS, Python, PHP and C. My recent work involves creating an interlinear Arabic Bible <a href="https://www.thearabicbible.org/">The Arabic Bible</a>, optimizing server-side logic, and designing UIs from scratch with a strong focus on clarity and speed.
+
+
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/leonheart0137/leonheart0137/refs/heads/main/leonheart-octocat-rotating.gif?raw=true"></a>
+
+- Sharing updates on <a href="https://www.linkedin.com/in/carlos-leonheart-guerrero-10b8421b4/">LinkedIn</a> 💼
+- Open to meaningful collaborations via <a href="mailto:leonheart0137@gmail.com">Email</a> 📬  
+- Sharing a portfolio soon — stay tuned 👀
 <!--
 **leonheart0137/leonheart0137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
