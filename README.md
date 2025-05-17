@@ -1,4 +1,4 @@
-# Hi, I'm Carlos 👋🏾 👩🏾‍💻
+# Hi, I'm Carlos 👋🏽🧑🏽‍💻
 
 <img src="https://raw.githubusercontent.com/leonheart0137/leonheart0137/refs/heads/main/header-image-2.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
