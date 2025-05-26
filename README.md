@@ -1,6 +1,6 @@
 # Hi, I'm Carlos 👋🏽🧑🏽‍💻
 
-<img src="https://raw.githubusercontent.com/leonheart0137/leonheart0137/refs/heads/main/header-image-2.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<!--<img src="https://raw.githubusercontent.com/leonheart0137/leonheart0137/refs/heads/main/header-image-2.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica"> -->
 
 I'm a software developer focused on building thoughtful digital experiences — from data analysis and backend APIs to modern, accessible web interfaces. My work combines technical depth with real-world purpose, whether I'm working with data, building multilingual tools, or deploying full-stack applications. Some technologies I enjoy working with include React, Svelte, SQLite, TailwindCSS, Python, PHP and C. My recent work involves creating an interlinear Arabic Bible <a href="https://www.thearabicbible.org/">The Arabic Bible</a>, optimizing server-side logic, and designing UIs from scratch with a strong focus on clarity and speed.
 
